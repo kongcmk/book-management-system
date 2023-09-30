@@ -1,0 +1,19 @@
+{
+  "name": "book-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chaimongkol-sawat",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "cli-color": "^2.0.3",
+    "nodemon": "^3.0.1",
+    "prompt-sync": "^4.2.0",
+    "uuid": "^9.0.1"
+  }
+}

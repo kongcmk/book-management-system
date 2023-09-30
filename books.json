@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3e9b76c0-198d-4f34-9fdd-56b999f754e7",
+    "title": "Sample Title 3",
+    "author": "Sample Author 3",
+    "year": 2010,
+    "price": 24.95
+  },
+  {
+    "id": "843678f8-c85e-47ab-9e4e-dc7b5d4ecf04",
+    "title": "Sample Title 4",
+    "author": "Sample Author 4",
+    "year": 1998,
+    "price": 15.99
+  },
+  {
+    "id": "e5c19c96-7f82-45a2-a4b0-0ac1c5360193",
+    "title": "Sample Title 5",
+    "author": "Sample Author 5",
+    "year": 2021,
+    "price": 34.99
+  },
+  {
+    "id": "7f938883-5e63-4e96-8f5b-6efecab5736b",
+    "title": "Sample Title 6",
+    "author": "Sample Author 6",
+    "year": 2015,
+    "price": 22.49
+  },
+  {
+    "id": "a3a4766a-0eab-4f07-8db2-3f1e550a7a53",
+    "title": "Sample Title 7",
+    "author": "Sample Author 7",
+    "year": 2005,
+    "price": 18.75
+  },
+  {
+    "id": "1cfac6dd-6825-47f2-8f94-29eb1f8da56e",
+    "title": "Sample Title 8",
+    "author": "Sample Author 8",
+    "year": 2018,
+    "price": 28.99
+  },
+  {
+    "id": "0a2ad1c2-4c6b-4b32-8652-4e74e50990ad",
+    "title": "Sample Title 9",
+    "author": "Sample Author 9",
+    "year": 2008,
+    "price": 21.99
+  },
+  {
+    "id": "d2a56382-18f5-4182-94d9-61ab7ab4f297",
+    "title": "Sample Title 10",
+    "author": "Sample Author 10",
+    "year": 2023,
+    "price": 39.99
+  },
+  {
+    "id": "656bb9f3-4b16-4946-8025-45ac74a50ad8",
+    "title": "Sample Title 11",
+    "author": "Author 11",
+    "year": 2023,
+    "price": 199
+  },
+  {
+    "id": "496b3ab2-701d-4420-b686-d8cded772e7e",
+    "title": "Title 12",
+    "author": "Author 12",
+    "year": 2023,
+    "price": 200
+  },
+  {
+    "id": "e7868b36-10e8-4246-90bd-6fc104b62a6f",
+    "title": "Title 13",
+    "author": "author 13",
+    "year": 2023,
+    "price": 200
+  },
+  {
+    "id": "63de5c76-84d9-4f13-9b3c-ae0e88f79a29",
+    "title": "title 14",
+    "author": "author 14",
+    "year": 2023,
+    "price": 12
+  }
+]
